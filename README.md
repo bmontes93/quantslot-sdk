@@ -1,4 +1,4 @@
-# QuantSlot Math Engine & RTP API 🎰
+# QuantSlot Math Engine & RTP API 
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green.svg)
 ![Service](https://img.shields.io/badge/Service-API_as_a_Service-blue.svg)
@@ -10,7 +10,7 @@ Whether you are building a *Cluster-Pay* slot with infinite cascades, or calcula
 
 ---
 
-## 🚀 Why Choose QuantSlot?
+##  Why Choose QuantSlot?
 
 *   **Plug-and-Play Math:** Connect your frontend to our secure engine. We handle the probability, you handle the graphics.
 *   **Complex Mechanics Ready:** Native support for 5x5 Cluster Wins, Cascading replacements, Multi-tier Bonuses, and dynamic multipliers.
@@ -99,7 +99,7 @@ The API returns detailed metrics including total wagered, total won, exact RTP p
 
 ---
 
-## 💻 Code Examples
+##  Code Examples
 
 ### JavaScript (Fetch)
 ```javascript
@@ -134,7 +134,7 @@ print(f"Hit Frequency: {data['results']['hitFrequencyPercentage']}%")
 
 ---
 
-## 🤝 Licensing & Commercial Use
+##  Licensing & Commercial Use
 
 QuantSlot API is currently available for integration and testing. If you are a game studio or developer looking to license this math engine for a commercial production environment, please contact the lead engineer.
 
