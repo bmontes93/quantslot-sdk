@@ -20,7 +20,7 @@ Whether you are building a *Cluster-Pay* slot with infinite cascades, or calcula
 
 ---
 
-## 📡 API Integration Guide
+##  API Integration Guide
 
 Our API operates over standard HTTP POST requests, returning fast, structured JSON responses.
 
